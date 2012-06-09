@@ -1,0 +1,140 @@
+﻿.Master
+{
+    width: 790px;
+    min-height: 100%;
+    margin: 0px auto 0px auto;
+    border-left: 1px solid #333;
+    border-right: 1px solid #333;
+    padding: 0px;
+    background: transparent url(./Images/footer_pattern.png) repeat;
+}
+
+.Master .MasterTop
+{
+    height: 35px; 
+    width: 100%;
+    background: transparent url(./Images/top_slice.png) repeat-x;
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+}
+
+
+    .Master .MasterTop .LanguageChooser
+    {
+        position: relative;
+        float: right;
+        min-height: 15px;
+        margin-right: 10px;
+        font-size: 85%;
+        width: auto;
+        top: 13px;
+        color: #fff;
+    }
+    
+    .Master .MasterTop .LanguageChooser select, .Master .MasterTop .LanguageChooser option
+    {
+        font-size: 100%;
+        cursor: pointer;
+    }
+    
+    .Master .MasterTop .Flag
+    {   
+        position: relative;
+        top: 15px;
+        float: right; 
+        width: 31px;
+        height: 20px;
+    }
+    
+    .Flag.English
+    {
+        margin-right: 5px;
+    }
+    
+.Master .MasterHeader
+{
+    border-top: 2px solid #000;
+    height: 224px;
+    width: 100%;
+    background: transparent url(./Images/header_slice.png) repeat-x;
+}
+
+    .Master .MasterHeader .HeaderPic
+    {
+        height: 100%;
+        width: 100%;
+        background: transparent url(./Images/header_pic.png) no-repeat left center; 
+    }    
+    
+    .Master .MasterHeader .HeaderLogo
+    {
+        height: 100%;
+        background: transparent url(./Images/header_logo.png) no-repeat right center; 
+        margin-right: 5%;
+    }
+
+    .Master .MasterHeader div.LinkButton
+    {
+        width: 90px;
+        height: 32px;
+        margin-top: 190px;
+        margin-left: 2em;
+        float: right;
+        background: transparent url(./Images/linkbtn.png) no-repeat bottom;
+        text-align: center;
+    }
+    
+    .Master .MasterHeader div.LinkButton a
+    {
+        display: block;
+        margin-top: 0.5em;
+        color: #000;
+        text-decoration: none;
+        width: 100%;
+        height: auto;
+        font-weight: bold;
+    }
+    
+    .Master .MasterHeader div.LinkButton.Deactive
+    {
+        background: transparent url(./Images/linkbtn_o.png) no-repeat bottom;
+    }
+    
+    .Master .MasterHeader div.LinkButton.Deactive a
+    {
+        color:Gray;
+        font-weight: normal;
+    }
+    
+   
+    
+     .Master .MasterHeader div.LinkButton a:hover
+     {
+        text-decoration: underline;
+     }
+     .Master .MasterHeader div.LinkButton.Deactive a:hover
+    {
+        text-decoration: none;
+    }
+    
+    
+.Master .MasterContent
+{
+    min-height: 14em; 
+    background-color: #fff;
+}
+
+.Master .MasterFooter
+{
+    border-top: 2px solid #000;
+    min-height: 4em;
+    text-align: center;
+    font-size: 85%;
+    color: #fff;
+    padding: 1em 0px 1em 0px;
+}
+.Master .MasterFooter a
+{
+    color: Yellow;
+}

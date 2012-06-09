@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Resource>
+  <![CDATA[ 
+  
+   ======================================================================
+     
+     This is one of the language files for the Trading site of Taiyo Bussan. 
+     The data is used by the Localization project.
+     
+     The file open for edit by administrators. It is automatically updated  
+     when the administrator is logged in.
+     
+     Author:    Justin J. Moses <justin@justinjmoses.com.au>
+     Date:      May 25, 2007 
+     
+     Language:  PORTGUESE
+     
+     ===================================================================
+     
+     The following CANNOT be changed by the admin user 
+    
+  ]]>
+
+  
+  <item name="pageTitle">Taiyo Bussan Trading</item>
+
+
+  <![CDATA[     The page footer      ]]>
+
+  <item name="pageFooter">
+    Taiyo Bussan Co. Pty Ltd<br />
+    511-0068 Mie-ken Kuwana-shi Chuou-cho 5-51-5 Taiyo Building, 3rd Floor | TEL/FAX +81.594.25.3116<br />
+    Este Web site é o © 2007 do copyright: Taiyo Bussan (大洋物産)<br />
+    Web site perto <a href="http://web.justinjmoses.com.au" target="_blank" title="justin j. moses: web.development">Justin J. Moses</a>
+  </item>
+
+  <item name="buttonHome">Inicio</item>
+  <item name="buttonContact">Contato</item>
+
+
+  <item name="headingHome">Inicio</item>
+  <item name="headingContact">Contato</item>
+
+  
+  <![CDATA[     Buttons in the page      ]]>
+
+  <item name="btnReset">Limpar</item>
+  <item name="btnSubmit">Submeter</item>
+  <item name="btnCancel">Cancelar</item>
+
+
+  <![CDATA[     Other items      ]]>
+
+  <item name="contactFormName">Seu nome:</item>
+  <item name="contactFormEmail">Email:</item>
+  <item name="contactFormMessage">Mensagem:</item>
+
+
+
+  <item name="msgFileNotFound">
+    <div>Desculpa</div>A página ou arquiva-o estava procurando não pode ser encontrada.
+  </item>
+
+  <item name="msgError">
+    <div>
+      Erro interno!
+    </div> Um erro interno ocorreu. Nós desculpamo-nos por toda a inconveniência
+  </item>
+
+  <item name="msgClickBack">Estalar para ir para trás</item>
+
+  <item name="mailSent">Obrigado para seu gabarito. Nós veremos seu email logo.</item>
+
+
+  <![CDATA[     Admin items      ]]>
+
+  <item name="adminLoggedText">
+    <span>Observação:</span>  Esta página está aberta para editar.
+  </item>
+
+  <item name="txtLanguageChoose">
+    Escolher sua língua:
+  </item>
+
+  <item name="adminLogoutLink">
+    Logout
+  </item>
+
+
+
+  <![CDATA[ 
+  
+  ===============================================================
+  
+    the following will be editing via the inline CMS 
+    
+  ]]>
+
+
+
+  <item name="homeText">
+    <p>
+      Proin a ante. Nam dui leo, consequat et, faucibus ut, euismod a, massa. Ut a dui non turpis congue hendrerit. Vivamus id augue eget ipsum bibendum condimentum. Suspendisse arcu. Nullam venenatis augue non justo. Donec sollicitudin mauris eget justo. Vestibulum elementum facilisis velit. Nulla facilisi. Phasellus suscipit orci in tellus. Suspendisse consequat, mi gravida blandit ultricies, ligula nibh volutpat neque, nec pharetra risus massa eget pede. Vestibulum hendrerit lorem eu lacus. Curabitur suscipit ligula at arcu.
+    </p>
+    <p>
+      Nulla feugiat. Cras sem enim, viverra in, vehicula eu, pulvinar vel, elit. In nonummy consequat odio. Mauris elit massa, ornare eget, lobortis et, egestas vel, ante. Phasellus vitae est vel ligula luctus bibendum. In tempor varius neque. Phasellus vel mi vel velit viverra venenatis. Nunc quam libero, suscipit a, fermentum congue, commodo eu, diam. Morbi elit risus, adipiscing id, tempus nec, porttitor in, dui. Aliquam erat volutpat. Aliquam tincidunt. Ut felis sapien, accumsan at, rhoncus vitae, faucibus vitae, velit. Aenean ullamcorper faucibus leo. Sed facilisis elit in quam consequat placerat. Ut vestibulum auctor felis. Maecenas id ante ut felis rhoncus pharetra. Curabitur posuere lorem vitae augue. Ut tincidunt, ante at rutrum pharetra, elit risus ultricies diam, id blandit ante tortor eget augue.
+    </p>
+  </item>
+
+  <item name="contactText">
+    <p>You can use this form to send us an email at any time of the day and we will reply to you as soon as possible.</p>
+  </item>
+
+
+</Resource>

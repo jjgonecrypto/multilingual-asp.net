@@ -1,0 +1,38 @@
+﻿html, body 
+{
+    font-family: Tahoma, Verdana, Sans-Serif;
+    font-size: small;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+body
+{
+    background-color: #000;
+}
+
+form
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+div,p,ul,li,span,th,td
+{
+    font-family: Tahoma, Verdana, Sans-Serif;
+    font-size: small;
+}
+
+input, select, textarea, option
+{
+    font-family: Verdana, Sans-Serif;
+    font-size: small;
+}
+
+a
+{
+    color: Red;
+}
+

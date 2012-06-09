@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="Todo.xslt" ?>
+<todo>
+  <author>Justin J. Moses</author>
+  <copyright>Copyright &#169; MMVII</copyright>
+
+  
+  <item>
+    <name>DynamicEdit and DynamicEditPage</name>
+    <desc>
+      These are too tightly bound to the project to be reused.
+    </desc>
+    <priority>Medium</priority>
+    <order>100</order>
+    <status>New</status>
+  </item>
+
+  <item>
+    <name>Link translations</name>
+    <desc>
+      Need literal translations of all links and headings
+    </desc>
+    <priority>High</priority>
+    <order>100</order>
+    <status>Complete</status>
+  </item>
+
+
+  <item>
+    <name>Resource files not in wwwroot</name>
+    <desc>
+      remember resource files not to go in wwwroot live
+    </desc>
+    <priority>High</priority>
+    <order>100</order>
+    <status>New</status>
+  </item>
+
+  <item>
+    <name>Encryption</name>
+    <desc>
+      Encryption needs to be redone for the server
+    </desc>
+    <priority>Medium</priority>
+    <order>50</order>
+    <status>New</status>
+  </item>
+  
+  <![CDATA[ 
+  <item>
+    <name></name>
+    <desc>
+   
+    </desc>
+    <priority></priority>
+    <order></order>
+    <status>New</status>
+  </item>
+  ]]>
+  
+</todo>

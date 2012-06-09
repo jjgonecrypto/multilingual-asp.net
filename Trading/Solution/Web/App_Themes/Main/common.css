@@ -1,0 +1,78 @@
+﻿.Page
+{   
+    padding: 1em 3em 1em 3em;  
+}
+
+.PageHeader
+{
+    font-weight: bold;
+    margin-bottom: 1em;
+    font-size: 115%;
+}
+
+
+.ErrorText
+{
+    color: Red;
+}
+.ErrorText div
+{
+    color: Black;
+    
+    font-weight: bold;
+    font-size: 120%;
+    margin-bottom: 1em;
+}
+
+
+.Form
+{
+    margin: 1em 0px 1em 0px;
+    font-size: 100%;
+}
+
+    .Form .FormRow
+    {
+        clear: left;
+        margin: 5px 0px 5px 0px;
+        height: 2em;
+        font-size: 100%;
+
+    }
+    
+     .Form .FormRow.Textarea
+     {
+        height: 10em;
+     }
+     
+    .Form .FormRow div.InputLabel
+    {
+        float: left;
+        font-weight: bold;
+        color: #333;
+        width: 9em;
+        padding-top: 3px;
+        padding-right: 3px;
+        font-size: 100%;
+    }
+    
+    .Form .FormRow div.InputItem
+    {
+        float: left;
+    }
+    
+    .Form .FormRow .InputItem .Text
+    {
+        width: 19em;
+        font-size: 100%;
+    }
+    .Form .FormRow .Button
+    {
+        cursor: pointer;
+    }
+   
+    .Form .FormRow.Textarea textarea
+    {
+        height: 10em;
+        width: 30em;   
+    }

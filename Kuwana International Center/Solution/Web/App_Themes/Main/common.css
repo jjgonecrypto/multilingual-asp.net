@@ -1,0 +1,241 @@
+﻿    .Content
+    {
+       font-size: 100%; 
+       padding: 20px 0px 50px 0px;
+       margin-bottom: 10px;
+       background-color: White;
+       background-image: url(./Images/content_paper_bg.png);
+       background-repeat: repeat;
+       border-top: 1px solid #aed2fe;
+       border-right: 1px solid #aed2fe;
+       border-bottom: 1px solid #aed2fe;
+    }
+    .Content .Section
+    {
+        padding: 1.5em 20px 20px 20px;  
+    }
+    /*
+    .Content .SectionOptions
+    {
+        font-size: 125%;
+    }
+    .Content .SectionOptions option
+    {
+        font-size: 100%;
+    }
+    */
+.ContentHeading
+{
+   font-size: 250%;
+   margin-bottom: 30px;
+}
+
+.ContentHeading span
+{
+    font-size: 100%;
+    
+}
+
+
+.Form
+{
+    margin: 1em 0px 1em 0px;
+    font-size: 100%;
+}
+
+    .Form .FormRow
+    {
+        clear: left;
+        margin: 5px 0px 5px 0px;
+        height: 1.5em;
+        font-size: 100%;
+    }
+    
+     .Form .FormRow.Textarea
+     {
+        height: 10em;
+     }
+     
+    .Form .FormRow div.InputLabel
+    {
+        float: left;
+        font-weight: bold;
+        color: #333;
+        width: 9em;
+        padding-top: 3px;
+        padding-right: 3px;
+        font-size: 100%;
+    }
+    
+    .Form .FormRow div.InputItem
+    {
+        float: left;
+    }
+    
+    .Form .FormRow .InputItem .Text
+    {
+        width: 19em;
+        font-size: 100%;
+    }
+    .Form .FormRow .InputItem .Button
+    {
+        cursor: pointer;
+    }
+   
+    .Form .FormRow.Textarea textarea
+    {
+        height: 10em;
+        width: 30em;   
+    }
+
+
+.Paragraph
+{
+   margin-bottom: 20px;
+   padding: 0px;
+   width: 99%;
+}
+
+.Paragraph .SmallHeading
+{
+    font-weight: bold;
+}
+
+.Paragraph ul
+{
+ margin: 5px 2px 5px 2px;
+ padding: 0px;   
+}
+
+.Paragraph ul li
+{
+    margin-top: 2px;
+    margin-left: 1em;
+}
+
+a.Anchor:hover
+{
+    text-decoration: none;
+}
+
+.TopArrow
+{
+    width: 22px;
+    height: 32px;
+    float: right;
+    background: transparent url(./Images/page_top_arrow.png) no-repeat center;
+}
+
+.LineSeparator
+{
+    font-size: 1px;
+    margin: 10px 0px 10px 0px;
+    height: 1px;
+    
+}
+
+.ClearSeparator
+{
+     font-size: 1px;
+    margin: 10px 0px 10px 0px;
+    height: 2px;
+}
+
+.NoDisplay
+{
+    display: none;
+}
+
+li .ListItemHeading
+{
+    
+    font-size: 85%;
+}
+
+li .ListItemText
+{
+    color: #666;
+    font-size: 85%;
+}
+
+.Bookmarks
+{
+    
+    width: 151px;
+    
+    float: left; 
+    background: transparent url(./Images/content_bookmarks_behind.png) no-repeat left; 
+    min-height: 335px;
+    
+    padding: 0px 3px 3px 10px;
+    font-size: 100%;
+    
+}
+    .Bookmarks ul
+    {
+        padding-top: 10px;
+    }
+    .Bookmarks ul li
+    {
+        margin-top: 5px;
+    }
+    .Bookmarks  a
+    {
+        color: Red;
+    }
+.PageContent
+{
+     min-height: 335px;
+     margin-left: 160px; 
+     width: auto; 
+     background-color: #fff;
+     padding: 5px 1em 5px 1em;
+     border: 1px solid #ccc;
+}
+
+
+.SectionHeading
+{
+    font-size: 125%;
+    margin-bottom: 1em;
+    font-weight: bold;
+    
+}
+.Caption
+{
+    font-size: 85%;
+    color: #888;
+    text-align: center;
+}
+
+.ErrorText
+{
+    color: Red;
+}
+.ErrorText div
+{
+    color: Black;
+    
+    font-weight: bold;
+    font-size: 120%;
+    margin-bottom: 1em;
+}
+
+.AdminPanel
+{
+    float: left;
+    color: white;
+    padding-left: 10px;
+    font-weight: normal;
+    font-family: Tahoma, Verdana, Sans-Serif;
+}
+.AdminPanel span
+{
+    font-weight: bold;
+    color: yellow;
+}
+
+.AdminPanel a
+{
+    color: white;
+}

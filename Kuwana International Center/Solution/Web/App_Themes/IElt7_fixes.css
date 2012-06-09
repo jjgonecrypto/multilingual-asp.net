@@ -1,0 +1,31 @@
+﻿.PageContent
+{
+    height: 335px; 
+}
+.ContactPage
+{
+    height: 35em;
+}
+.Master .MasterTop .HeaderLogo
+{
+    height: auto;
+}
+.Master .MasterRow
+{
+    overflow: visible; 
+}
+
+ .Master .MasterRow .LanguageChooser
+ {
+    font-size: 75%;
+ }
+ 
+ .Master .MasterBody
+ {
+    overflow: visible;
+ }
+ 
+ .Bookmarks
+ {
+    height: 335px;
+ }

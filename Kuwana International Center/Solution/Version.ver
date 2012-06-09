@@ -1,0 +1,18 @@
+===========================
+Kuwana International Center
+===========================
+
+Author:         Justin J. Moses <justin@justinjmoses.com.au>
+Copyright:      Copyright © MMVii: K.K. Taiyo Bussan
+
+Version:        0.9.1 [Using DynamicEdit as UserControl]
+
+Last Modified:  May 29, 2007
+
+
+Dependencies:
+		        Project	        	Version
+		        =======		        =======
+		        jsi		            1.1.0.2 [Development]
+		        CustomControls	    0.0.2
+		        Localization        0.0.2

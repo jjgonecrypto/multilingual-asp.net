@@ -1,0 +1,10 @@
+﻿.AboutPage .Section.About
+{
+    background: transparent url(./Images/about_behind.png) no-repeat left 5px;
+}
+
+.Map
+{
+    width: 500px;
+    height: 300px;
+}

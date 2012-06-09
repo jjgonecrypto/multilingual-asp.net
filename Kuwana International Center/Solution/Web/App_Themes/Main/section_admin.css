@@ -1,0 +1,177 @@
+﻿.AdminLogin
+{
+    width: 100%;
+    height: 100%;   
+    
+}
+
+.AdminLogin .Top
+{
+    height: 170px;
+    padding-top: 30px;
+    text-align: center;
+    color: White;
+    font-size: 250%;
+    background-image: url(./Images/header_logo.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.AdminLogin .Panel
+{
+    background-color: black;
+    height: 100px;
+    color: White;
+    padding: 20px;
+
+    text-align: center;
+}
+
+.AdminLogin .Panel .FormRow
+{
+    margin-bottom: 20px;
+    //margin-bottom: 0px;
+    
+}
+.AdminLogin .Panel .InputLabel
+{
+    color: #fff;
+}
+
+.AdminLogin .Panel span.InputField
+{
+    color: #fff;
+}
+
+.AdminLogin .RedLine
+{
+    font-size: 1px;
+    height: 2px;
+    width: 100%;
+    background-color: #F93F3A;
+}
+
+.AdminLogin .YellowLine
+{
+    font-size: 1px;
+    height: 2px;
+    width: 100%;
+     background-color: #F8ED31;
+}
+
+.AdminLogin .GreenLine
+{
+    font-size: 1px;
+    height: 2px;
+    width: 100%;
+     background-color: #23D422;
+}
+
+.AdminLogin .Bottom
+{
+    margin-top: 20px;
+    text-align: center;
+}
+
+
+
+.AForm
+{
+    margin: 1em 0px 1em 0px;
+    font-size: 100%;
+}
+
+    .AForm .AFormRow
+    {
+        clear: left;
+        margin: 5px 0px 5px 0px;
+        height: 1em;
+        font-size: 100%;
+        padding-top: 5px;
+    }
+    
+    
+    .AForm .AFormRow div.InputLabel
+    {
+        float: left;
+        font-weight: bold;
+        color: #333;
+        width: 9em;
+        padding-top: 3px;
+        padding-right: 3px;
+        font-size: 100%;
+    }
+    
+    .AForm .AFormRow div.InputItem
+    {
+        float: left;
+        width: auto;
+    }
+    
+    
+    .AForm .AFormRow .InputItem .Text
+    {
+        width: 19em;
+        font-size: 100%;
+    }
+    .AForm .AFormRow .InputItem .Button
+    {
+        cursor: pointer;
+        font-size: 120%;
+    }
+   
+    .AForm .AFormRow .InputItem.SmallTextarea textarea
+    {
+        height: 5em;
+        width: 30em;   
+    }
+    
+    .AForm .AFormRow .InputItem.BigTextarea textarea
+    {
+        height: 20em;
+        width: 40em;  
+    }
+
+.APageHeading
+{
+    margin-top: 2em;
+    padding: 1em;
+    font-size: 150%;
+    color: White;    
+    background-color: orange;
+}
+
+.AdminPage, .ATable td, .ATable th
+{
+    font-family: Tahoma;
+}
+
+.AdminPage a
+{
+    color: Red;
+}
+
+.AdminPage .ATable
+{
+    margin: 1em 0px 1em 0px;
+    border-collapse: collapse;
+    
+}
+.AdminPage .ATableHeader
+{
+    background-color: Black;
+    color: White;
+    
+}
+
+.AdminPage .ATableHeader th
+{
+    padding: 5px;
+}
+
+.AdminPage .ATable td
+{
+    padding: 5px;
+    border: 1px solid #ccc;
+}
+

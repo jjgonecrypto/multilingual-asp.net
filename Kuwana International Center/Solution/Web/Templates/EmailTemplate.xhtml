@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+<head>
+    <title>Email from website</title>
+</head>
+<body>
+  <style type="text/css">
+    html, body
+    {
+
+      width: 100%;
+      height: 100%;
+
+    }
+
+    html, body, div, td, th, span, li, p, pre
+    {
+      font-family: Tahoma, Verdana, Sans-Serif;
+      font-size: small;
+    }
+    div.Line
+    {
+      margin-top: 3px;
+    }
+    div.Line strong
+    {
+          color: gray;
+    }
+
+  </style>
+  
+  <h2>Email from www.kuwana-kic.com</h2>
+  <div class="Line">
+    <strong>Date:</strong> <insert key="date" />
+  </div>
+  <div class="Line">
+    <strong>Time:</strong> 
+    <insert key="time" />
+  </div>
+  <div class="Line">
+    <strong>Sender:</strong> 
+    <insert key="name" /> &lt;<insert key="email" />&gt;
+  </div>
+  <div class="Line">
+    <strong>Language:</strong>
+    <insert key="lang" />
+  </div>
+  <hr/>
+  
+  <pre><insert key="message" /></pre>
+  
+</body>
+</html>

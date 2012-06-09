@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Resource>
+  <![CDATA[ 
+  
+   ======================================================================
+     
+     This is one of the language files for the Trading site of Taiyo Bussan. 
+     The data is used by the Localization project.
+     
+     The file open for edit by administrators. It is automatically updated  
+     when the administrator is logged in.
+     
+     Author:    Justin J. Moses <justin@justinjmoses.com.au>
+     Date:      May 25, 2007 
+     
+     Language:  ENGLISH
+     
+     ===================================================================
+     
+     The following CANNOT be changed by the admin user 
+    
+  ]]>
+
+  
+  <item name="pageTitle">Taiyo Bussan Trading</item>
+
+
+  <![CDATA[     The page footer      ]]>
+
+  <item name="pageFooter">
+    Taiyo Bussan Co. Pty Ltd<br />
+    511-0068 Mie-ken Kuwana-shi Chuou-cho 5-51-5 Taiyo Building, 3rd Floor | TEL/FAX +81.594.25.3116<br />
+    
+    This Site is Copyright © 2007: Taiyo Bussan (大洋物産) | 
+    Website by <a href="http://web.justinjmoses.com.au" target="_blank" title="justin j. moses: web.development">Justin J. Moses</a>
+  </item>
+
+  <item name="buttonHome">Home</item>
+  <item name="buttonContact">Contact</item>
+
+
+  <item name="headingHome">Welcome</item>
+  <item name="headingContact">Contact Us</item>
+
+  
+  <![CDATA[     Buttons in the page      ]]>
+
+  <item name="btnReset">Clear</item>
+  <item name="btnSubmit">Submit</item>
+  <item name="btnCancel">Cancel</item>
+
+  
+  <![CDATA[     Other items      ]]>
+
+
+  <item name="contactFormName">Your Name:</item>
+  <item name="contactFormEmail">Email Address:</item>
+  <item name="contactFormMessage">Message:</item>
+
+
+  <item name="msgFileNotFound">
+    <div>Notice</div>The page or file you were looking for cannot be found.
+  </item>
+
+  <item name="msgError">
+    <div>Internal Error!</div>An internal error has occurred. We apologise for any inconvinence.
+  </item>
+
+  <item name="msgClickBack">Click to go back</item>
+
+  <item name="mailSent">Thank you for your feedback. We will view your email soon.</item>
+
+
+  <![CDATA[     Admin items      ]]>
+
+  <item name="adminLoggedText">
+    <span>Notice:</span> This page is open for editing.
+  </item>
+
+  <item name="txtLanguageChoose">
+    Choose Your Language:
+  </item>
+
+  <item name="adminLogoutLink">
+    Logout Here
+  </item>
+  
+
+  <![CDATA[ 
+  
+  ===============================================================
+  
+    the following will be editing via the inline CMS 
+    
+  ]]>
+
+
+
+  <item name="homeText">
+    <p>
+      Proin a ante. Nam dui leo, consequat et, faucibus ut, euismod a, massa. Ut a dui non turpis congue hendrerit. Vivamus id augue eget ipsum bibendum condimentum. Suspendisse arcu. Nullam venenatis augue non justo. Donec sollicitudin mauris eget justo. Vestibulum elementum facilisis velit. Nulla facilisi. Phasellus suscipit orci in tellus. Suspendisse consequat, mi gravida blandit ultricies, ligula nibh volutpat neque, nec pharetra risus massa eget pede. Vestibulum hendrerit lorem eu lacus. Curabitur suscipit ligula at arcu.
+    </p>
+    <p>
+      Nulla feugiat. Cras sem enim, viverra in, vehicula eu, pulvinar vel, elit. In nonummy consequat odio. Mauris elit massa, ornare eget, lobortis et, egestas vel, ante. Phasellus vitae est vel ligula luctus bibendum. In tempor varius neque. Phasellus vel mi vel velit viverra venenatis. Nunc quam libero, suscipit a, fermentum congue, commodo eu, diam. Morbi elit risus, adipiscing id, tempus nec, porttitor in, dui. Aliquam erat volutpat. Aliquam tincidunt. Ut felis sapien, accumsan at, rhoncus vitae, faucibus vitae, velit. Aenean ullamcorper faucibus leo. Sed facilisis elit in quam consequat placerat. Ut vestibulum auctor felis. Maecenas id ante ut felis rhoncus pharetra. Curabitur posuere lorem vitae augue. Ut tincidunt, ante at rutrum pharetra, elit risus ultricies diam, id blandit ante tortor eget augue.
+    </p>
+  </item>
+
+  <item name="contactText">
+    <p>You can use this form to send us an email at any time of the day and we will reply to you as soon as possible.</p>
+  </item>
+
+
+</Resource>

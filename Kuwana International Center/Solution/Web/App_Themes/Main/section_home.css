@@ -1,0 +1,24 @@
+﻿.HomePage.Content
+{
+ 
+}
+.HomePage .Section
+{
+ 
+           
+}
+.HomePage .Section.Welcome
+{
+    
+    background: transparent url(./Images/home_behind_welcome.png) no-repeat left 5px;
+}
+
+.HomePage .Section.News
+{
+    background: transparent url(./Images/home_behind_news.png) no-repeat left 5px;
+}
+
+.HomePage .Section.Events
+{
+    background: transparent url(./Images/home_behind_events.png) no-repeat left 5px;
+}

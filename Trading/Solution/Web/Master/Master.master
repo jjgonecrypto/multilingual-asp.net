@@ -1,0 +1,130 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Master.master.cs" Inherits="TaiyoBussan.Trading.MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" runat="server" >
+<head runat="server">
+    <title><Localized:LocalizedLiteral runat="server" Key="pageTitle" /></title>
+    
+    <meta name="robots" content="index,follow" />
+    <meta name="keywords" content="Taiyo Bussan, International Trading, Nih" />
+    
+    <link rel="shortcut icon" href="~/favicon.ico" runat="server" /> 
+    
+    
+    <script type="text/javascript" language="javascript" src="http://localhost:69/jsi.development/jsi.js"></script>
+    
+    <script type="text/javascript" language="javascript">
+        jsi.dhtml.load();
+        jsi.aspdotnet.load();
+    </script>
+    
+    
+    <!--[if lt IE 7.]>
+        <link rel="Stylesheet" runat="server" href="~/App_Themes/IE_lt7.css" />
+    <![endif]-->
+    
+    <!-- Google Analytics -->
+    <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+    </script>
+    <script type="text/javascript">
+    _uacct = "UA-1424384-4";
+    urchinTracker();
+    </script>
+    <!-- ---------------- -->
+    
+</head>
+<body>
+    <div class="Master">
+    <form id="form1" runat="server">
+        <div class="MasterTop">
+        
+            <div class="LanguageChooser">
+                <Localized:LocalizedLiteral runat="server" key="txtLanguageChoose" /> 
+                <asp:DropDownList runat="server" ID="drpLanguage" AutoPostBack="true"  >
+                    <asp:ListItem value="America" Text="English" />
+                    <asp:ListItem value="Japan" Text="日本語" />
+                    <asp:ListItem value="Brazil" Text="Português" />
+                </asp:DropDownList>
+            </div>
+            
+            <div class="Flag English">
+                <asp:HyperLink runat="server" NavigateUrl="?lang=en" ID="lnkLangEnglish">
+                    <asp:Image runat="server" SkinID="imgFlagEnglish" AlternateText="English" />
+                </asp:HyperLink>
+            </div>
+            <div class="Flag Brazil">
+                <asp:HyperLink runat="server" NavigateUrl="?lang=pt"  ID="lnkLangPortuguese">
+                    <asp:Image runat="server" SkinID="imgFlagBrazil" AlternateText="Português"  />
+                </asp:HyperLink>
+            </div>
+            <div class="Flag Japan">
+                <asp:HyperLink runat="server" navigateurl="?lang=ja"  ID="lnkLangJapanese">
+                    <asp:Image runat="server" SkinID="imgFlagJapan" AlternateText="日本語" />
+                </asp:HyperLink>
+            </div>
+        </div>
+        
+        <div class="MasterHeader">
+            <div class="HeaderPic">
+                <div class="HeaderLogo">
+                    <div runat="server" id="divLnkContact" class="LinkButton"><asp:HyperLink ID="lnkContact" runat="server" SkinID="lnkContact"><Localized:LocalizedLiteral key="buttonContact" runat="server" /></asp:HyperLink></div>
+                    <div runat="server" id="divLnkHome" class="LinkButton"><asp:HyperLink ID="lnkHome" runat="server" SkinID="lnkHome"><Localized:LocalizedLiteral key="buttonHome" runat="server" /></asp:HyperLink></div>
+                </div>
+            </div>
+        </div>
+        
+        <asp:Placeholder runat="server" ID="plhAdmin" Visible="false">
+            <jjm:JavascriptInclude runat="server" SourceFile="/Scripts/tiny_mce/tiny_mce.js" />
+            
+            
+            <script type="text/javascript" language="javascript">
+            
+            tinyMCE.init({
+                mode : "textareas",
+                theme : "advanced",
+                theme_advanced_buttons1 : "bold,italic,underline,strikethrough,separator,forecolor,separator,undo,redo",
+                theme_advanced_buttons2 : "",
+                theme_advanced_buttons3 : "",
+                editor_selector : "tinymceSimple",
+                remove_trailing_nbsp : true,
+                entity_encoding : "numeric",
+                language : "<%= ((TaiyoBussan.TBWebMaster)this.Page.Master).JS_WYSIWYG_Language %>"
+                
+                });
+        
+             tinyMCE.init({
+                mode : "textareas",
+                theme : "advanced",
+                theme_advanced_buttons1 : "bold,italic,underline,strikethrough,separator,forecolor,separator,undo,redo,separator,justifyleft,justifycenter,justifyright,justifyfull",
+                theme_advanced_buttons2 : "bullist,numlist,outdent,indent,link,unlink,image,help",
+                theme_advanced_buttons3 : "sub,sup,charmap",
+                editor_selector : "tinymceAdvanced",
+                plugins : "advimage,table",
+                remove_trailing_nbsp : true,
+                entity_encoding : "numeric",
+                language : "<%= ((TaiyoBussan.TBWebMaster)this.Page.Master).JS_WYSIWYG_Language %>"
+                
+                });
+             
+             
+            </script>
+            
+            <div class="APanel">
+                <Localized:LocalizedLiteral runat="server" key="adminLoggedText" />
+                <Localized:LocalizedHyperLink runat="server" ID="lnkLogout" Key="adminLogoutLink" NavigateUrl="~/Admin/Login.aspx?lx=1" />
+            </div>
+        </asp:Placeholder>
+            
+        <div class="MasterContent">
+            <asp:contentplaceholder id="ContentPlaceHolder1" runat="server">
+            </asp:contentplaceholder>
+        </div>
+        
+        <div class="MasterFooter">
+            <Localized:LocalizedLiteral runat="server" key="pageFooter" />
+        </div>
+    </form>
+    </div>
+</body>
+</html>

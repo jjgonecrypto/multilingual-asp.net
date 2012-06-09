@@ -1,0 +1,25 @@
+<%--
+    Default skin template. 
+--%>
+
+<asp:Image SkinID="imgHeader" runat="server" width="285px" height="133px" ImageUrl="./Images/header_logo.png" />
+
+<asp:Image SkinID="imgFlag" runat="server" ImageUrl="./Images/flag_brazil.gif"  />
+<asp:Image SkinID="imgFlagSpain" runat="server" ImageUrl="./Images/flag_spain.gif"  />
+<asp:Image SkinID="imgFlagJapan" runat="server" ImageUrl="./Images/flag_japan.gif"  />
+<asp:Image SkinID="imgFlagAmerica" runat="server" ImageUrl="./Images/flag_us.gif"  />
+<asp:Image SkinID="imgFlagBrazil" runat="server" ImageUrl="./Images/flag_brazil.gif"  />
+
+<asp:Image SkinID="imgBMXDay" runat="server" Border="0" ImageUrl="./Images/fun_magicsports_bmx_day.jpg"  />
+<asp:Image SkinID="imgBMXNight" runat="server" Border="0"  ImageUrl="./Images/fun_magicsports_bmx_night.jpg"  />
+<asp:Image SkinID="imgPaintball" runat="server" Border="0"  ImageUrl="./Images/fun_magicsports_pball.jpg"  />
+
+
+<asp:HyperLink SkinID="lnkHome" runat="server" NavigateUrl="~/Default.aspx" />
+<asp:HyperLink SkinID="lnkContact" runat="server" NavigateUrl="~/Pages/Contact.aspx" />
+<asp:HyperLink SkinID="lnkServices" runat="server" NavigateUrl="~/Pages/Services.aspx" />
+<asp:HyperLink SkinID="lnkSchools" runat="server" NavigateUrl="~/Pages/Schools.aspx" />
+<asp:HyperLink SkinID="lnkLiving" runat="server" NavigateUrl="~/Pages/Living.aspx" />
+<asp:HyperLink SkinID="lnkFun" runat="server" NavigateUrl="~/Pages/Fun.aspx" />
+<asp:HyperLink SkinID="lnkResources" runat="server" NavigateUrl="~/Pages/Resources.aspx" />
+<asp:HyperLink SkinID="lnkAbout" runat="server" NavigateUrl="~/Pages/About.aspx" />

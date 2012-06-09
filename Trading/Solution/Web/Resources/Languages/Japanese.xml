@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resource>
+  <![CDATA[ 
+  
+   ======================================================================
+     
+     This is one of the language files for the Trading site of Taiyo Bussan. 
+     The data is used by the Localization project.
+     
+     The file open for edit by administrators. It is automatically updated  
+     when the administrator is logged in.
+     
+     Author:    Justin J. Moses <justin@justinjmoses.com.au>
+     Date:      May 25, 2007 
+     
+     Language:  JAPANESE
+     
+     ===================================================================
+     
+     The following CANNOT be changed by the admin user 
+    
+  ]]>
+
+  
+  <item name="pageTitle">大洋物産</item>
+
+
+  <item name="pageFooter">
+      大洋物産<br />
+      511-0068 三重県桑名市中央町 5-51-5 大洋ビル 3F | TEL/FAX +81.594.25.3116<br />
+      すべての内容および設計は© 2007年の著作権をとる: 大洋物産 | <a href="http://web.justinjmoses.com.au" target="_blank" title="justin j. moses: web.development">Justin J. Moses</a> 著 ウェブサイト<br />
+    </item>
+
+  <item name="buttonHome">ホーム</item>
+  <item name="buttonContact">お問い合わせ</item>
+
+
+  <item name="headingHome">ホーム</item>
+  <item name="headingContact">お問い合わせ</item>
+
+  
+  <![CDATA[     Buttons in the page      ]]>
+
+  <item name="btnReset">掃除</item>
+  <item name="btnSubmit">O K</item>
+  <item name="btnCancel">キャンセル</item>
+
+
+  <![CDATA[     Other items      ]]>
+
+
+  <item name="contactFormName">名前</item>
+  <item name="contactFormEmail">Eメールアドレス</item>
+  <item name="contactFormMessage">メッセージ</item>
+
+
+  <item name="msgFileNotFound">ページはまたは捜していた見つけることができないファイルする。</item>
+
+
+  <item name="msgError">
+    <div>内部エラー!</div>内部エラーは生じた。 私達は謝る.
+  </item>
+
+  <item name="msgClickBack">戻るためにかちりと鳴らしなさい</item>
+
+  <item name="mailSent">あなたのフィードバックをありがとう。 私達はあなたの電子メールをやがて見る。 </item>
+
+
+  <![CDATA[     Admin items      ]]>
+
+  <item name="adminLoggedText">このページは編集のために開いている。</item>
+
+  <item name="txtLanguageChoose">
+    言語を選びなさい:
+  </item>
+
+  <item name="adminLogoutLink">ログアウト</item>
+
+
+  <![CDATA[ 
+  
+  ===============================================================
+  
+    the following will be editing via the inline CMS 
+    
+  ]]>
+
+
+  
+
+  <item name="homeText"><p>       Proin a ante. Nam dui leo, consequat et, faucibus ut, euismod a, massa. Ut a dui non turpis congue hendrerit. Vivamus id augue eget ipsum bibendum condimentum. Suspendisse arcu. Nullam venenatis augue non justo. Donec sollicitudin mauris eg<strong>gfxgdgdgddt</strong></p><p>       Nulla feugiat. Cras sem enim, viverra in, vehicula eu, pulvinar vel, elit. In nonummy consequat odio. Mauris elit massa, ornare eget, lobortis et, egestas vel, ante. Phasellus vitae est vel ligula luctus bibendum. In tempor varius neque. Phasellus vel mi vel velit viverra venenatis. Nunc quam libero, suscipit a, fermentum congue, commodo eu, diam. Morbi elit risus, adipiscing id, tempus nec, porttitor in, dui. Aliquam erat volutpat. Aliquam tincidunt. Ut felis sapien, accumsan at, rhoncus vitae, faucibus vitae, velit. Aenean ullamcorper faucibus leo. Sed facilisis elit in quam consequat placerat. Ut vestibulum auctor felis. Maecenas id ante ut felis rhoncus pharetra. Curabitur posuere lorem vitae augue. Ut tincidunt, ante at rutrum pharetra, elit risus ultricies diam, id blandit ante tortor eget augue.     </p></item>
+
+  <item name="contactText">
+    <p>You can use this form to send us an email at any time of the day and we will reply to you as soon as possible.</p>
+  </item>
+
+
+</Resource>

@@ -1,0 +1,8 @@
+﻿.Master
+{
+    height: 100%;
+}
+.Master .MasterContent
+{
+    height: 15em;
+}

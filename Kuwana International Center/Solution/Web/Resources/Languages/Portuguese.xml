@@ -1,0 +1,402 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resource>
+  <![CDATA[  
+  
+     ======================================================================
+     
+     This is one of the language files for the Kuwana International Center. 
+     The data is used by the Localization project.
+     
+     The file open for edit by administrators. It is automatically updated  
+     when the administrator is logged in.
+     
+     Author:    Justin J. Moses <justin@justinjmoses.com.au>
+     Date:      May 24, 2007 
+     
+     Language:  PORTUGUESE
+     
+     ===================================================================
+     
+     The following CANNOT be changed by the admin user 
+    
+  ]]>
+    <item name="metaDesc">
+      Centro Internacional de Kuwana: Informação e serviços para estrangeiros na cidade de Kuwana, Japão.
+    </item>
+
+  <item name="pageTitle">
+    Centro Internacional de Kuwana
+  </item>
+
+  <item name="noCookies">
+    Os bolinhos devem ser permitidos neste local de recordar sua escolha da língua. Por favor permitir bolinhos ou download um browser que suporte bolinhos. Você pode download um <a href="http://br.mozdev.org/firefox/" target="_blank">aqui</a>.
+  </item>
+
+
+    <item name="adminLoggedText">
+      <span>Observação:</span>  Esta página está aberta para editar.
+    </item>
+
+    <item name="txtLanguageChoose">
+      Escolha sua língua:
+    </item>
+    
+    <item name="adminLogoutLink">
+      Logout
+    </item>
+  
+    
+    <![CDATA[     Buttons in the page      ]]>
+  
+    <item name="btnReset">Limpar</item>
+    <item name="btnSubmit">Submeter</item>
+    <item name="btnCancel">Cancelar</item>
+
+  
+    <![CDATA[     The main links ]]>
+  
+    <item name="buttonHome">Início</item>
+    <item name="buttonServices">Serviços</item>
+    <item name="buttonSchools">Aulas</item>
+    <item name="buttonLiving">Dicas</item>
+    <item name="buttonFun">Diversão</item>
+    <item name="buttonContact">Contato</item>
+    <item name="buttonAbout">Quem somos</item>
+    <item name="buttonResources">Links</item> 
+  
+    <![CDATA[     The page headings      ]]>
+
+    <item name="headingWelcome">Bem vindo ao KIC</item>
+    <item name="headingNews">Notícias</item>
+    <item name="headingEvents">Eventos</item>
+    <item name="headingServices">Serviços</item>
+    <item name="headingSchools">Aulas</item>
+    <item name="headingLiving">Dicas</item>
+    <item name="headingFun">Diversão</item>
+    <item name="headingContact">Contato</item>
+    <item name="headingAbout">Quem somos</item>
+    <item name="headingResources">Links</item> 
+
+  <![CDATA[     The page footer      ]]>
+
+  <item name="pageFooterLine">
+    Kuwana International Center:<br />
+    511-0068 Mie-ken Kuwana-shi Chuou-cho 4-44 Win's Building 3rd Floor | <a target="_blank" href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;om=1&amp;msa=0&amp;msid=106709865528438359786.00000112b8121579c1366&amp;ll=35.062952,136.690993&amp;spn=0.014683,0.029182&amp;z=15">Map</a><br />
+    TEL/FAX +81.594.22.8333<br />
+    This site is Copyright © 2007: Taiyo Bussan (大洋物産)<br />
+    Website by <a href="http://web.justinjmoses.com.au" target="_blank" title="justin j. moses: web.development">Justin J. Moses</a>
+  </item>
+
+
+    <![CDATA[ Other stuff ]]>
+
+    <item name="contactFormName">Seu nome:</item>
+    <item name="contactFormEmail">Email:</item>
+    <item name="contactFormMessage">Mensagem:</item>
+
+
+    <item name="pagesAddingTitle">Adicionar uma página nova</item>
+    <item name="pagesEditingTitle">Editar a página existente</item>
+
+    <item name="textTitle">Título</item>
+    <item name="textTeaser">Sumário a curto</item>
+    <item name="textText">Texto</item>
+
+    <item name="msgFileNotFound"><div>Desculpa</div>A página ou arquiva-o estava procurando não pode ser encontrada.</item>
+
+    <item name="msgError">
+      <div>
+        Erro interno!
+      </div> Um erro interno ocorreu. Nós desculpamo-nos por toda a inconveniência
+      </item>
+
+    <item name="msgClickBack">Estalar para ir para trás</item>
+
+    <item name="mailSent">Obrigado para seu gabarito. Nós veremos seu email logo.</item>
+  
+  
+    <item name="txtPagesPageTitle">Título da página</item>
+    <item name="txtPagesActions">Ações</item>
+    <item name="txtActionEdit">Editar</item>
+    <item name="txtActionDelete">Deletar</item>
+
+
+    <item name="txtClickToEdit">Estalar para editar esta página</item>
+    <item name="txtBackToNormal">Vão para trás à visão normal</item>
+
+  <![CDATA[  
+     
+     ===================================================================
+
+   
+     ===================================================================
+   
+      The following may be changed by the admin user, via the CMS 
+    
+  ]]>
+
+
+
+
+  <![CDATA[     The HOME page     ]]>
+
+  <item name="welcomeText"><p>Bem vindo ao Kuwana Internacional Center. Nosso alvo é lhe ajudar com dicas e melhoramento na sua estadia no Japão.</p><p>O centro de atendimento funciona de Segunda-feira a Sábado apartir das 9 horas ás 17 horas.</p><p>Prestamos serviços de traduções, aulas,  assessoria, locação de apartamentos e vendas de casa, como tambem dicas sobre o Japão.</p><p>Envie-nos um email  <a href="Pages/Contact.aspx" title="Contact Us">Contact Us</a> ou entre em contato pelo telefone (+81) (0) 594 22 8333.</p></item>
+
+  <item name="newsText"><p><strong>Festa das nações in Kuwana<br /></strong></p><p>Precisamos de pessoas voluntárias que queiram ajudar a organizar, planejar, participar e liderar grupos para uma festa em kuwana, vai ser em agosto dia 12 (a confirmar), no sports magic kuwana... thanks people... mandar e-mail com profile....</p><p><strong>Acampamento de primavera/verão</strong></p><p>Alguém afim de ajudar a organizar um acampamento agora no mês de maio ou junho ??? mandar e-mail com profile please.... thanks... boys and girls...</p><p><strong>Arubaito</strong></p><p>   Ae tem alguém afim de arubaito nos finais de semana:</p><ul><li>Assar, vender churrascos e vendas de sucos e refrigerantes.</li><li>Necessário ter carro, ser comunicativo e falar japonês.</li><li>Ter experiência em fazer churrasquinhos.</li></ul></item>
+
+  <item name="eventsText"><p><strong>Sunday, May 27, 2007   <font color="#ff0000"><font color="#008000">Sports Magic Kuwana </font></font>5pm </strong></p><p>TORNEIO DE PAINTBALL - PRINCIPIANTES<br />DIA 27 DE MAIO (DOMINGO)- 9:00 ~ 18:00<br />INSCRIÇÕES ATÉ O DIA 20 DE MAIO.<br />3 PESSOAS POR TIME - 6.000 IENES.<br />PREMIAÇÃO PARA OS COLOCADOS.<br />LIGAR PARA MAIS INFORMAÇÕES E INSCRIÇÕES:<br />0594-22-8333</p><p> </p><p><strong>Sunday, June 24, 2007   </strong><strong><font color="#ff0000"><font color="#008000">Sports Magic Kuwana</font></font></strong><strong><font color="#ff0000">  </font>5pm</strong></p><p>TORNEIO DE PAINTBALL - AMADOR<br />DIA 24 DE JUNHO (DOMINGO)- 9:00 ~ 18:00<br />INSCRIÇÕES ATÉ O DIA 17 DE JUNHO.<br />3 PESSOAS POR TIME - 12.000 IENES.<br />PREMIAÇÃO PARA OS COLOCADOS.<br />LIGAR PARA MAIS INFORMAÇÕES E INSCRIÇÕES:<br />0594-22-8333</p><p> </p><p><strong>Sunday, July 29, 2007  </strong><strong><font color="#ff0000"><font color="#008000">Sports Magic Kuwana<font color="#ff0000"> </font></font></font></strong><strong>5pm</strong></p><p>TORNEIO DE PAINTBALL - PRINCIPIANTES<br />DIA 29 DE JULHO (DOMINGO)- 9:00 ~ 18:00<br />INSCRIÇÕES ATÉ O DIA 22 DE JULHO<br />3 PESSOAS POR TIME - 6.000 IENES.<br />PREMIAÇÃO PARA OS COLOCADOS.<br />LIGAR PARA MAIS INFORMAÇÕES E INSCRIÇÕES:<br />0594-22-8333</p><p> </p><p><strong>Sunday, August 12, 2007   </strong><strong><font color="#ff0000"><font color="#008000">Sports Magic Kuwana </font></font></strong><strong>5pm</strong></p><p>TORNEIO DE PAINTBALL - PROFISSIONAL<br />DIA 19 DE AGOSTO (DOMINGO)- 9:00 ~ 18:00<br />INSCRIÇÕES ATÉ O DIA 12 DE AGOSTO.<br />5 PESSOAS POR TIME - 6.000 IENES.<br />PREMIAÇÃO PARA OS COLOCADOS.<br />LIGAR PARA MAIS INFORMAÇÕES E INSCRIÇÕES:<br />0594-22-8333 </p></item>
+
+
+
+  <![CDATA[     The SERVICES page     ]]>
+
+
+  <pages name="servicesPage">
+    <page index="0">
+      <title>Traduções</title>
+      <teaser>Day and night dirt bike riding.</teaser>
+      <text>        <ul><li>Registros de Nascimento e Casamento;</li><li>Antecedentes Criminais (Polícia Federal e Civil);</li>             <li>Declarações em geral.</li>           </ul>                  <p>           Para efetuar os serviços de tradução, você deve trazer os documentos originais, e dentro de 2 dias sua tradução estará pronta, em caso de traduções mais complicadas poderá se estender o prazo. Efetuamos traduções de português para japonês e de japonês para português, também efetuamos traduções de espanhól para japonês, esta leva-se mais tempo.         </p>       </text>
+    </page>
+    <page index="1">
+      <title>Intérpretes</title>
+      <teaser>Portguese!!</teaser>
+      <text>        <ul>            <li>Hospitais, escolas, bancos, etc;</li>          </ul>         <p>           O serviço de intérprete é realizado com dia e horário marcado antecipadamente, conforme agenda da pessoa que irá realizar o trabalho. Este serviço não se limita somente aos locais acima descritos podendo variar de acordo com o local onde-se quer ir.         </p>       </text>
+    </page>
+    <page index="2">
+      <title>Acompanhamento e Auxílio</title>
+      <teaser></teaser>
+      <text>
+        <ul>
+
+          <li>Imigração, receita federal, prefeituras, etc.</li>
+
+        </ul>
+
+        <p>
+          Este serviço é realizado também com horário e dia marcado antecipadamente, é realizado com preenchimento e pedido de documentos, todos os tipos de documentos da imigração, declaração de imposto de renda na receita federal e também pedidos de documentos na prefeitura.
+        </p>
+        
+        <ul>
+          <li>Documentos da Imigração;</li>
+          <li>Documentos para Declaração do Imposto de Renda;</li>
+          <li>Documentos da Prefeitura.</li>
+        </ul>
+        
+      </text>
+    </page>
+    <page index="3">
+      <title>Apresentação de Trabalho e Empreiteiras</title>
+      <teaser></teaser>
+      <text>
+        <p>
+          Este serviço é realizado somente pela apresentação e fornecimento de telefones de empreiteiras e locais de procura de trabalho.
+        </p>
+        <ul>
+          <li>Empreiteiras;</li>
+          <li>Hello Work.</li>
+        </ul>
+      </text>
+    </page>
+    <page index="4">
+      <title>Auxílio Psicológico</title>
+      <teaser></teaser>
+      <text>
+        <p>
+          Este serviço é realizado pela apresentação de um profissional na
+          área de psicologia, onde o atendimento é feito diretamentamente
+          com o profissional, ficando totalmente confidenciais as informações
+          dadas ao mesmo. Atendimento este oferecido para jovens, adultos e
+          crianças.
+        </p>
+        <ul>
+          <li>  Psicóloga Dra. Danielle Carvalho</li>
+        </ul>
+      </text>
+    </page>
+  
+	
+	
+	
+	
+	
+	<page index="5"><title>new</title><teaser>new</teaser><text><p>new</p><p>!! </p></text></page></pages>
+
+
+  <![CDATA[     The SCHOOLS page     ]]>
+
+  <pages name="schoolsPage">
+    <page index="0">
+      <title>Aulas de Japonês</title>
+      <teaser></teaser>
+      <text>
+        <ul>
+          <li>Todos os dias da semana.</li>
+          <li>Qualquer horário (marcar com antecedência).</li>
+          <li>
+            Livros utilizados:
+            <ul>
+              <li>Shin Nihongo no Kiso Kanji I – Adultos.</li>
+              <li>Shin Nihongo no Kiso Kanji II – Adultos.</li>
+              <li>Minna no Nihongo I – Adultos.</li>
+              <li>Minna no Nihongo II – Adultos.</li>
+            </ul>
+          </li>
+          <li>Preço por hora aula: ¥ 1.000.</li>
+          <li>Tratar pelo fone: 0594-22-8333.</li>
+        </ul>
+      </text>
+    </page>
+    <page index="1">
+      <title>Aulas de Inglês</title>
+      <teaser></teaser>
+      <text>
+        <ul>
+          <li>Segunda a sexta.</li>
+          <li>Qualquer horário (marcar com antecedência).</li>
+          <li>
+            Livros utilizados:
+            <ul>
+              <li>Alphabet Starters – Crianças.</li>
+              <li>Bugs Phonics – Crianças.</li>
+              <li>Let´s Go Reading – Crianças.</li>
+              <li>Let´s Go Grammar – Crianças.</li>
+              <li>Side By Side 1a – Adultos.</li>
+              <li>Side By Side 1b – Adultos.</li>
+            </ul>
+          </li>
+          <li>Preço por hora aula: ¥ 1.500.</li>
+          <li>Tratar pelo fone: 080-3635-4959 (Michelle Sato).</li>
+        </ul>
+      </text>
+    </page>
+    <page index="2">
+      <title>Aulas de Espanhól</title>
+      <teaser></teaser>
+      <text>
+        <ul>
+          <li>Segunda a sexta.</li>
+          <li>Qualquer horário (marcar com antecedência).</li>
+          <li>
+            Livros utilizados:
+            <ul>
+              <li>Supeingo Haya Wakari – Adultos.</li>
+            </ul>
+          </li>
+          <li>Preço por hora aula: ¥ 1.500.</li>
+          <li>Tratar pelo fone: 090-5857-9524 (Jessica Takakuwa).</li>
+        </ul>
+        
+      </text>
+    </page>
+    <page index="3">
+      <title>Aulas de Português</title>
+      <teaser></teaser>
+      <text>
+        <ul>
+          <li>Segunda a sexta.</li>
+          <li>Qualquer horário (marcar com antecedência).</li>
+          <li>
+            Livros utilizados:
+            <ul>
+              <li>Vocabulário Prático da Língua Portuguesa – Adultos.</li>
+              <li>Ima Sugu Hanaseru Burajiru Porutogarugo – Adultos.</li>
+            </ul>
+          </li>
+          <li>Preço por hora aula: ¥ 1.000.</li>
+          <li>Tratar pelo fone: 0594-22-8333.</li>
+        </ul>
+      </text>
+    </page>
+  </pages>
+
+
+  <![CDATA[     The LIVING page     ]]>
+
+
+  <pages name="livingPage">
+    <page index="0">
+      <title>Things to see</title>
+      <teaser>In and about the Kuwana area</teaser>
+      <text>
+        <ul>
+          <li>
+            <strong>Traditional Gardens: </strong> In Kuwana, the preserved gardens of a local merchant can be visited. Entry is 1000 JPY.
+          </li>
+          <li>
+            <strong>Nagashima Spa Land: </strong> One train station away is Nagashima, featuring the exciting Nagashima Spa Land amusement park and the brand-name Factory Outlet. 
+          </li>
+        </ul>
+      </text>
+    </page>
+    <page index="1">
+      <title>Rental Accommodation</title>
+      <teaser>What's available for rent.</teaser>
+      <text>        <p><strong>New Apartments for Rent - GREEN VILLAGE HOKUSEI</strong> </p><p>   INABE SHI, HOKUSEI CHO, New Apartment 1DK, western style with parking.<br /><br />20 Apartments available. They will be available in September (date to be confirmed), please call for an interview or for more information.<br /> </p>       </text>
+    </page>
+    <page index="2">
+      <title>For Sale</title>
+      <teaser>Houses and apartments for sale.</teaser>
+      <text>
+        <p>Nothing currently available.</p>
+      </text>
+    </page>
+  </pages>
+
+
+  <![CDATA[     The FUN/ENTERTAINMENT page     ]]>
+
+  <pages name="funPage">
+  
+	<page index="0"><title>BMX</title><teaser>Day and night dirt bike riding. </teaser><text><p>Magicsports boasts one of the best BMX tracks around.</p><p> </p><div style="text-align: center"><div align="center"><img src="../Images/magic_bmx_photo_day.jpg" alt="BMX in the day" title="BMX" width="197" height="150" />  <img src="../Images/magic_bmx_photo_night.jpg" alt="BMX in the night" title="BMX" width="206" height="150" /><br /></div></div><div style="text-align: center"><div align="center"><font color="#999999">Day and night BMX racing!</font></div><div align="center"> </div><div align="left"> </div><div align="left">Call 0594-27-6555 or goto the <a href="http://www.gonzo-web.com/" target="_blank" title="BMX">BMX</a> homepage. </div> </div><div style="text-align: center"> </div><div align="center" style="text-align: center"> </div> </text></page>
+	
+	<page index="1"><title>Football</title><teaser>Outdoor football field for rent.</teaser><text><p><strong>Magicsports</strong> also boasts football fields for rent. Whether it's with your friends or on a team, get out and get active!</p><p> </p><div style="text-align: center"><img src="../Images/magic_football_field.jpg" alt="Football field" title="Football field" width="198" height="153" />   <img src="../Images/magic_football_team.jpg" alt="Football team" title="Football team" width="198" height="153" /></div><div style="text-align: center"><font color="#999999">Football at Magicsports</font> <br /></div><p> </p><p>Contact <a href="http://www.sportsmagic-kuwana.com/" target="_blank" title="Magic Sports"><strong>Magicsports</strong></a>  to find out how to get there. </p><p> </p></text></page>
+	
+	<page index="2"><title>Paintball</title><teaser>Battle it out with your mates on the paintball field.</teaser><text><p><strong>Magicsports</strong> has the only paintball arena in town. </p><p> </p><div style="text-align: center"><img src="../Images/magic_pball_far.jpg" alt="Paintball at Magicsports" />   <img src="../Images/magic_pball_cup.jpg" alt="Paintball" title="Paintball" width="198" height="152" /></div><div style="text-align: center"><font color="#999999">Paintball fun</font> </div> <p align="left"> </p><p align="left">Call 0594-27-5199 or goto the <a href="http://www.goodpaintball.com/splash/" target="_blank" title="Paintball">Paintball</a> homepage.</p></text></page>
+	
+	<page index="3"><title>Party/Event Hire</title><teaser>Need a hall for your next party? A wedding? Whatever?</teaser><text><p>We can arrange your next event to be held in Kuwana. We work with a host in the area and have many options available for.</p><p>To find out more, call the Kuwana International Center on 0594 22 8333 and ask for room hire.</p><p> </p><div align="center" style="text-align: center"><a href="http://photo.ringo.com/181/181949387O778153065.jpg"><br /></a>   </div><p> </p></text>
+</page>
+
+<page index="4">
+  <title>Water Jump</title>
+  <teaser>Ride and jump with your best moves.</teaser>
+  <text>
+    <p>
+      Check out <strong>Water Jump</strong> at Magic Sports. Strap on a snowboard and show off your stuff! (Snowboards available for rent).
+    </p>
+    <p> </p>
+    <p align="center">
+      <img src="../Images/magic_water_1.jpg" alt="Water Jam" title="Water Jam" width="203" height="152" />   <img src="../Images/magic_water_2.jpg" alt="Water Jam" title="Water Jam" width="203" height="152" />
+    </p>
+    <p>
+      For more info check out the <a href="http://www.freestyle.co.jp/k-air/" target="_blank" title="K-Air">K-Air homepage</a>. 
+    </p>
+  </text>
+</page>
+</pages>
+
+
+
+<![CDATA[     The CONTACT page     ]]>
+
+<item name="contactText">
+You can use this form to drop us a line anytime of the day. We will endeavour to reply
+to you as soon as possible.
+</item>
+
+
+  <![CDATA[     The RESOURCES page     ]]>
+
+  <item name="resourcesText"><ul><li><a href="http://www.nic-nagoya.or.jp/index.htm" target="_blank" title="Centro Internacional de Nagoya"><strong>Centro Internacional de Nagoya</strong></a></li></ul></item>
+
+
+  <![CDATA[     The ABOUT page     ]]>
+
+  <item name="aboutText"><p>Com o grande aumento de estrangeiros na província de Mie, onde muitos não conhecem a língua, ou possuem dificuldades no falar, e outros já estando muito tempo, precisam de melhores orientações, vimos por necessidade abrir um local onde poderia se tirar dúvidas surgidas durante sua estada nesta cidade e proximidades, por isso resolvemos abrir bem no centro de Kuwana o Centro Internacional de Kuwana.</p><p>Órgão este que ainda não possui vínculos com o governo, mas inicializada por incetivo privado (empresários japoneses),  que observando o grande crescimento da população estrangeira na região decidiram investir um pouco na orientação e prestação de serviços a comunidade. Neste local estaremos dando atendimento de nossos serviços a toda a comunidade estrangeira, estaremos atendendo nas áreas de informações relativas a cidade de Kuwana, aulas de japonês (leitura, escrita e conversação), além de informações de como se ter uma boa estada no Japão, além de aulas de aulas de japonês, inglês e espanhól. </p><p>Além dos serviços acima citados, estamos com dois novos setores:</p><ul><li>Imobiliário, venda de casas e terrenos, locação de apartamentos e áreas comerciais.</li><li>Trading, acessoria de importação e exportação de produtos, para o Japão, China, Brasil e Peru. <a href="http://trade.kuwana-kic.com" target="_blank" title="Taiyo Bussan Trade">Trade homepage</a>.<br /></li></ul><p><a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;om=1&amp;msa=0&amp;msid=106709865528438359786.00000112b8121579c1366&amp;ll=35.062952,136.690993&amp;spn=0.014683,0.029182&amp;z=15" target="_blank">Encontrar-nos no mapa</a>.</p></item>
+  
+  <![CDATA[  
+     
+     ===================================================================
+
+  ]]>
+
+</Resource>

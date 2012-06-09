@@ -1,0 +1,9 @@
+﻿.ContactPage
+{
+    min-height: 35em;
+}
+
+.ContactPage .Section
+{
+     background: transparent url(./Images/contact_behind.png) no-repeat left 5px;
+}

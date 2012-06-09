@@ -1,0 +1,28 @@
+﻿.ALogin
+{
+    
+    padding-top: 10em;
+}
+.ALogin .Panel
+{
+    
+    width: 100%;
+    background-color: #fff;
+    color: #000;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    min-height: 16em;
+    text-align: center;
+}
+
+.ALogin .Panel .Bottom
+{
+    margin-top: 3em;
+    margin-bottom: 3em;   
+}
+
+.APanel
+{   
+    background-color: #ddd;
+    padding: 0.5em 0.5em 0.5em 3em;
+}
